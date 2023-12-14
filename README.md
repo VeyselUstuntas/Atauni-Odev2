@@ -1,2 +1,9 @@
 # Atauni-Odev2
- Kullanıcıdan almış olduğu dört tane parametreyle dosya/klasörün iznini, sahibini ve grubunu değiştireb betik
+## Açık Kaynak Yazılım Geliştrime Dersi
+### Kullanıcıdan almış olduğu dört tane parametreyle dosya/klasörün iznini, sahibini ve grubunu değiştiren betik
+
+### Çalıştırma
+```bash
+bash betik.sh
+```
+
