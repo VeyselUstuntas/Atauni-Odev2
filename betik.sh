@@ -1,3 +1,4 @@
+#!/bin/bash
 user_name="VeyselUstuntas"
 school_number=200707048
 
