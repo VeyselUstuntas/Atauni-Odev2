@@ -4,6 +4,7 @@
 
 ### Çalıştırma
 ```bash
-bash betik.sh 400 user group file_name
+chmod u+x
+./betik.sh 400 user group file_name
 ```
 
